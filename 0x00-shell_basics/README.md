@@ -1,2 +1,1 @@
-#!/bin/bash 
-prints  name of the current working directory 
+prints the name of current working diroctory 
